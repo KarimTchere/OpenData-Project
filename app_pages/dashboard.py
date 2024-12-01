@@ -60,7 +60,6 @@ def build_dashboard(df):
     # ---- Structure du Dashboard ----
 
     # 1. Répartition démographique
-    st.write("## Répartition démographique")
     st.write("---")
     col1, col2 = st.columns(2)
     
