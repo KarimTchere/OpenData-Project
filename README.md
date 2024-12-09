@@ -20,7 +20,7 @@ Avant d'exécuter le projet, assurez-vous que vous avez installé les dépendanc
 - Pandas
 - Plotly
 - Jobless API client (si applicable)
-- Autres dépendances pour la prédiction (par exemple, scikit-learn, TensorFlow, ou autre si un modèle de machine learning est utilisé)
+- Autres dépendances pour la prédiction (scikit-learn, TensorFlow).
 
 Vous pouvez installer les dépendances en exécutant la commande suivante :
 
